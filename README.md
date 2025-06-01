@@ -46,13 +46,18 @@ This Tableau dashboard analyzes **Superstore sales data (USA)** across categorie
 ## 📁 File Structure
 
 📁 superstore-sales-dashboard/
-│
-├── Tableau/
-│ └── superstore_dashboard.twb
-├── Images/
-│ └── dashboard_preview.png
-└── README.md
 
+│
+
+├── Tableau/
+
+│ └── superstore_dashboard.twb
+
+├── Images/
+
+│ └── dashboard_preview.png
+
+└── README.md
 
 ---
 
