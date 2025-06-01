@@ -1,6 +1,6 @@
-# 🧾 Superstore USA Sales Dashboard | Tableau Project
+![image](https://github.com/user-attachments/assets/fcf46453-2bec-4400-8400-462324d68f7d)# 🧾 Superstore USA Sales Dashboard | Tableau Project
 
-This Tableau dashboard analyzes **Superstore sales data (USA)** across categories, regions, and time. The dashboard supports data-driven decisions for sales, profit margins, return rates, and top-performing products.
+This Tableau project visualizes and analyzes sales data from the Superstore USA dataset. The dashboard provides interactive insights into sales performance across product categories, sub-categories, customer segments, and U.S. states over time.
 
 ---
 
@@ -8,7 +8,7 @@ This Tableau dashboard analyzes **Superstore sales data (USA)** across categorie
 
 ![Superstore Dashboard](./Images/dashboard_preview.png)
 
-🔗 **Live Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/your-link)
+🔗 **Live Dashboard**: [View on Tableau Public]([https://public.tableau.com/app/profile/your-link](https://public.tableau.com/views/AmanBAnothe_Tableau_Assignment/Sheet18?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 ---
 
